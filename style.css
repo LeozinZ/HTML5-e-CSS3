@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: #CCCCCC;
 }
 
 h1 {
@@ -11,5 +11,5 @@ p {
 }
 
 strong {
-    color: mintcream;
+    color: black;
 }
