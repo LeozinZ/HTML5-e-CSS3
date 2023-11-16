@@ -1,16 +1,15 @@
 body {
-    background: grey;
+    background: black;
 }
 
 h1 {
     text-align: center;
 }
 
-strong {
-    color: midnightblue;
+p {
+    text-align: center;
 }
 
-em {
-    color: black;
-
+strong {
+    color: mintcream;
 }
